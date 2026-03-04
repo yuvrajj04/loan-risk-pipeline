@@ -132,7 +132,7 @@ loan-risk-pipeline/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/loan-risk-pipeline.git
+git clone https://github.com/yuvrajj/loan-risk-pipeline.git
 cd loan-risk-pipeline
 ```
 
